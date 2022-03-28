@@ -11,7 +11,6 @@
   inputs.src-buffer-master.ref   = "refs/heads/master";
   inputs.src-buffer-master.owner = "bung87";
   inputs.src-buffer-master.repo  = "buffer";
-  inputs.src-buffer-master.dir   = "";
   inputs.src-buffer-master.type  = "github";
   
   inputs."struct".owner = "nim-nix-pkgs";
